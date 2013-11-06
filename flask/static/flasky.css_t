@@ -17,7 +17,7 @@
 /* -- page layout ----------------------------------------------------------- */
 
 body {
-    font-family: {{ serif-family }};
+    font-family: {{ main_family }};
     font-size: 17px;
     background-color: white;
     color: #000;
