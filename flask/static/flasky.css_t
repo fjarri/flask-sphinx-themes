@@ -361,6 +361,11 @@ dl dl pre {
     padding-left: 90px;
 }
 
+dt {
+    padding-left: 60px;
+    text-indent: -60px;
+}
+
 tt {
     background-color: #ecf0f3;
     color: #222;
