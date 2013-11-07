@@ -8,9 +8,9 @@
 
 {% set page_width = '940px' %}
 {% set sidebar_width = '220px' %}
-{% set main_family = "'Merriweather', serif" %}
-{% set header_family = "'Merriweather Sans', sans-serif" %}
-{% set mono_family = "'Consolas', 'Menlo', monospace" %}
+{% set main_family = "'Lucida Sans Unicode', 'Lucida Grande', sans-serif" %}
+{% set header_family = "'Lucida Sans Unicode', 'Lucida Grande', sans-serif" %}
+{% set mono_family = "'Menlo', 'Consolas', 'Lucida Console', monospace" %}
 
 @import url("basic.css");
 
