@@ -366,6 +366,10 @@ dt {
     text-indent: -60px;
 }
 
+th.field-name {
+    background-color: #eee;
+}
+
 tt {
     background-color: #ecf0f3;
     color: #222;
