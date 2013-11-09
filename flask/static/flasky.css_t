@@ -8,9 +8,9 @@
 
 {% set page_width = '940px' %}
 {% set sidebar_width = '220px' %}
-{% set main_family = "'Lucida Sans Unicode', 'Lucida Grande', sans-serif" %}
-{% set header_family = "'Lucida Sans Unicode', 'Lucida Grande', sans-serif" %}
-{% set mono_family = "'Menlo', 'Consolas', 'Lucida Console', monospace" %}
+{% set main_family = "'Open Sans', sans-serif" %}
+{% set header_family = "'Open Sans', sans-serif" %}
+{% set mono_family = "'Menlo', 'Consolas', monospace" %}
 
 @import url("basic.css");
 
