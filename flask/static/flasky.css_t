@@ -378,7 +378,11 @@ tt {
 
 tt.xref, a tt {
     background-color: #FBFBFB;
-    border-bottom: 1px solid white;
+    color: #004B6B;
+}
+
+tt.xref:hover {
+    color: #6D4100;
 }
 
 a.reference {
