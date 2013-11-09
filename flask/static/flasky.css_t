@@ -288,7 +288,15 @@ table.docutils td, table.docutils th {
     padding: 0.25em 0.7em;
 }
 
-table.field-list, table.footnote {
+table.field-list {
+    border: none;
+    border-left: 2px solid #888;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+table.footnote {
     border: none;
     -moz-box-shadow: none;
     -webkit-box-shadow: none;
@@ -309,7 +317,7 @@ table.footnote + table.footnote {
 }
 
 table.field-list th {
-    padding: 0 0.8em 0 0;
+    padding: 0 0.8em 0 0.8em;
 }
 
 table.field-list td {
@@ -364,10 +372,6 @@ dl dl pre {
 dt {
     padding-left: 60px;
     text-indent: -60px;
-}
-
-th.field-name {
-    background-color: #eee;
 }
 
 tt {
