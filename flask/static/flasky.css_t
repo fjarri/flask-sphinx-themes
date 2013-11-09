@@ -202,6 +202,12 @@ div.admonition {
     border-bottom: 1px solid #ccc;
 }
 
+div.admonition.warning {
+    background: #fae8e8;
+    border-top: 1px solid #e8d0d0;
+    border-bottom: 1px solid #e8d0d0;
+}
+
 div.admonition tt.xref, div.admonition a tt {
     border-bottom: 1px solid #fafafa;
 }
